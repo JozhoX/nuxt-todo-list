@@ -10,6 +10,7 @@
 
 <style>
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
 }
 </style>
